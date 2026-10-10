@@ -1,0 +1,573 @@
+{
+ "app": "dafter",
+ "version": 1,
+ "customers": [
+  {
+   "id": "d82a5b81-c8a3-4f4d-83dd-7b61699b53cd",
+   "name": "ابو سعيد",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 03/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "2494acb4-205e-4340-995f-f8d168fe70ee",
+   "name": "احمد عامر",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 21/08/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "fa56d2d3-b552-4e1c-aeaa-96661781dd7e",
+   "name": "امجد عادل",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 04/08/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "0a7c2e43-9473-44db-8494-0eb21585f3d4",
+   "name": "امير محمود",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 15/03/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "52e5723d-1b97-45dd-a822-7ad6de34bdbd",
+   "name": "اوس محمد",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 10/03/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "d7fd0216-563e-47bf-bd6b-5518292ab884",
+   "name": "ايمن عامر",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 03/03/2025",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "6de41478-0d11-45d0-be24-0f09a0a118ac",
+   "name": "بشار فرج",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 10/12/2024",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "e1592ff7-f863-4b5e-b754-fbea1f0b37a2",
+   "name": "بيت احمد",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 01/10/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "61932a9a-48a0-4aea-a9a9-5378ad90b469",
+   "name": "ثائر رزاق",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 04/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "c9c59ab4-6c4a-49b2-b62d-e795f22b3f6f",
+   "name": "جنيد عامر",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 06/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "bd091a9d-bb36-4587-82e5-4552a4eecddb",
+   "name": "حسن جدوع",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 03/09/2024",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "0596c218-9990-4cd5-8d1c-d2833946cf01",
+   "name": "حسن علي",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 24/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "00168197-9a06-4056-b7f9-ab4a328f6de1",
+   "name": "حسن هيثم",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 03/10/2025",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "91289aaf-50f1-4ad1-802e-02872b3b52d6",
+   "name": "حسين جاسم",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 28/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "d98eb1bc-9139-44db-a025-34c2c540db6f",
+   "name": "حيدر قحطان",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 01/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "0a46eb93-ac7b-4d51-aff2-f6afbc5ff62b",
+   "name": "خالد الويس",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 21/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "57add588-a0b6-41e4-8626-8766cebaa2a2",
+   "name": "ذوالفقار",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 10/04/2025",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "05a023e6-b93d-498a-8cf8-be04790ce00a",
+   "name": "سامح قاسم",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 03/03/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "49fb3863-a209-488d-9506-0a565139598a",
+   "name": "سجاد سعد",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 20/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "0d493a5c-130a-4702-8862-3284ebbbf60a",
+   "name": "سرمد عناد",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 30/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "779b15d4-c4a6-4e08-b66a-ed512fe7496f",
+   "name": "سفيان احمد",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 26/05/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "368fe316-2b67-4bfd-857c-7cf097bbab32",
+   "name": "طه عدنان",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 03/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "e150f644-c2b2-4932-b48b-f385fde383d1",
+   "name": "عباس حمدان",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 15/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "775de288-d981-499e-a663-c390d6aedc70",
+   "name": "عباس رعد",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 24/08/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "4bc0ce85-cc68-4315-90fc-f2e404a517d1",
+   "name": "عبدالكريم عيدان",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 26/01/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "b69c3166-4f9c-43e7-85ba-cba65313b12f",
+   "name": "عثمان ويس",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 02/06/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "dae13049-38da-447b-bf95-67d17283331c",
+   "name": "علي جدوع",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 02/10/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "fcaf6ac5-315e-4af7-9d47-71576335b2f3",
+   "name": "عمار ساجت",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 04/12/2025",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "079bef2b-b8fc-40d3-8d6b-98560b3dc73a",
+   "name": "عمار مزرعة",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 04/08/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "fe42f4d3-9c74-41fb-8915-6d0376effb76",
+   "name": "عمر الشريفي",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 14/01/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "5a28b23f-a45a-47c4-962f-2095f78cdce4",
+   "name": "عمر رزاق",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 27/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "aff162e4-6389-4b34-bd26-0011af28a123",
+   "name": "قيس ابو ليلى",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 24/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "1808963f-7f9e-45a0-9a63-28a8f8de80e8",
+   "name": "قيصر سامح",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 05/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "3a37e722-d581-43f4-ba41-9acee93c9c65",
+   "name": "كرار حيدر",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 10/07/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "315a2e69-f4c2-4a52-93a4-4a413b85c455",
+   "name": "ليث نوري",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 26/05/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "9b1d6e8f-0a51-4fd9-9a80-ddae57bb631c",
+   "name": "مؤيد عدنان",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 25/04/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "f2ce2868-c7ba-4813-a22c-cf9429feeb77",
+   "name": "ماهر رزاق",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 30/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "e0e3030d-3838-4dad-b30d-114d3eeca554",
+   "name": "محمد جاسم بصف سرمد",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 11/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "1f69f201-f21c-49e0-8c9d-d02cd314f05a",
+   "name": "محمد سامي",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 07/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "2e00393d-c876-46ec-96c1-4ce70ef231a3",
+   "name": "محمد قاسم",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 11/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "b4428d84-1301-4b66-9ae3-e0a0a856aa4f",
+   "name": "محمد نجم",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 10/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "3432721f-1f19-41aa-b0c9-d5ceae1c5b95",
+   "name": "مصطفى خليل",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 06/07/2025",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "7fb87670-a1be-4ab7-9fb0-81feb2581c8f",
+   "name": "مصطفى سعدون",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 26/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "694c7c4d-5063-49f1-8337-1fb08999ba0d",
+   "name": "ميثاق ستار",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 04/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "5342302b-86b1-43b6-a410-9b77777a8521",
+   "name": "ميثم احمد",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 03/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "dbdaeab0-b854-4399-abcb-b493d82a1f66",
+   "name": "نمير محمد مهدي",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 20/08/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "5d8bec31-14b3-4307-9436-686ce0360ba3",
+   "name": "هيثم ابو حسن",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 02/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "09bfed8b-ece2-4156-aca2-562386635cfe",
+   "name": "وسام قاسم",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 10/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "fccce554-f9ea-45bd-a762-ee407f6f309e",
+   "name": "ياسر بدر",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 15/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  },
+  {
+   "id": "810d54d0-d660-49b1-948a-b6b6a7320fc2",
+   "name": "يوسف عباس",
+   "phone": "",
+   "price": 35,
+   "opening": null,
+   "openingDate": null,
+   "note": "آخر تسديد بالملف القديم: 16/09/2026",
+   "stopped": false,
+   "createdAt": "2026-10-10T00:35:24.408486Z"
+  }
+ ],
+ "txns": [],
+ "expenses": [],
+ "log": [
+  {
+   "id": "f02eefc5-2106-4c45-bc51-cbf5b35ac4ae",
+   "ts": "2026-10-10T00:35:24.408486Z",
+   "type": "بداية",
+   "text": "قائمة الزبائن من الملف القديم (50 زبون). الأرشيف القديم بملف Excel منفصل."
+  }
+ ],
+ "draft": {
+  "batch": []
+ },
+ "meta": {
+  "createdAt": "2026-10-10T00:35:24.408486Z",
+  "lastBackup": null
+ }
+}
