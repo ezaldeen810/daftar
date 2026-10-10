@@ -5,7 +5,7 @@ self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', e => {
-  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k.startsWith('dafter-v') && k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
 });
 const timeout = ms => new Promise((_, rej) => setTimeout(() => rej(new Error('timeout')), ms));
 self.addEventListener('fetch', e => {
